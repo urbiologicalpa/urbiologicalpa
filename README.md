@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @urbiologicalpa
-- 👀 I’m interested in python,biopython,Bioionformatics
+- 👀 I’m interested in python,biopython,Bioionformatics and ML
 - 🌱 I’m currently learning python and machine larning related to Bioinformatics
 - 💞️ I’m looking to collaborate on Bioinformatics related project
 - 📫 bikashkumardash888@gmail.com
