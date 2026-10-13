@@ -14,3 +14,6 @@ Product-grade training (3,717 images, 512px, 200 epochs) on a **3.7GB CPU-only l
 
 ![stats](https://github-readme-stats.vercel.app/api?username=urbiologicalpa&show_icons=true&locale=en)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=urbiologicalpa&show_icons=true&locale=en&layout=compact)
+
+📜 Published: pan-cancer multi-omics DL model (tissue-of-origin, stages, subtypes) — *Journal of Biomedical Informatics, 2024*
+🧬 Patent filed: end-to-end spatial transcriptomics pipeline (led 2 trainees + 1 ML dev @ThinkBio.Ai)
